@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="pl-PL" original="DevTables02.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 960835623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continents</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIN Continent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960835623 - Field 2822871755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIN Continent - Field ContinentName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 960835623 - Field 2888020752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of species</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIN Continent - Field No. of species - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3143142944 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plants</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIN Plant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3143142944 - Field 4208237386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIN Plant - Field Continent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3143142944 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIN Plant - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3143142944 - Field 709911942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plant name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DIN Plant - Field Spieces - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIN Continent Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 346600205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"My Tab"</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control My Tab - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 2822871755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Continent name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control ContinentName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 2888020752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. of species field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control No. of species - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1430990193 - Control 2822871755 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Continent name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent List - Control ContinentName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1430990193 - Control 2888020752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. of species field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent List - Control No. of species - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIN Plant Card</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 3568461190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Species</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Species - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 4208237386 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Continent field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Continent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 709911942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plant name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Spieces - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Control 4208237386 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Continent field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control Continent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Quantity field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Control 709911942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Plant name field.</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control Spieces - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 2822871755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control ContinentName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 2888020752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of species</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control No. of species - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1430990193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIN Continent List</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1430990193 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent List - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1430990193 - Control 2822871755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent List - Control ContinentName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1430990193 - Control 2888020752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of species</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent List - Control No. of species - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 709911942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plant name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Spieces - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Control 4208237386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Continent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIN Plant List</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Control 709911942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plant name</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control Spieces - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Control 4208237386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continent</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control Continent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2114755730 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>[NAB: NOT TRANSLATED]</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control Quantity - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
