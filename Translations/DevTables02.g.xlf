@@ -44,7 +44,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2982022723 - Control 346600205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>"My Tab"</source>
+          <source>My Tab</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control My Tab - Property Caption</note>
         </trans-unit>
@@ -58,6 +58,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control ContinentName - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 2754113191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>to jest zmienna</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control IntTest - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2982022723 - Control 2888020752 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the No. of species field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -67,6 +72,26 @@
           <source>No. of species</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control No. of species - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 756292507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Tab</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control My Tab2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 1384038697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>to jest zmienna</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control IntTest2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 910763866 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. of species field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control No. of species2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 910763866 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of species</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control No. of species2 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1430990193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>DIN Continent List</source>
@@ -142,6 +167,26 @@
           <source>Plant name</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Control Spieces - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Action 3704571473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CreationAction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Action CreationAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Action 480347289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NavAction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Action NavAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Action 4137667215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProcessingAction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Action ProcessingAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4072786484 - Action 3557579644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ReportingAction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant Card - Action ReportingAction - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2114755730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>DIN Plant List</source>

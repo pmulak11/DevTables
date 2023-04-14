@@ -1,4 +1,4 @@
-page 50113 "DIN Continent List"
+page 50101 "DIN Continent List"
 {
     ApplicationArea = All;
     Caption = 'DIN Continent List';

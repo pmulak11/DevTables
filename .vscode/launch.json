@@ -24,7 +24,7 @@
             "server": "http://cloud",
             "serverInstance": "BC",
             "authentication": "UserPassword",
-            "startupObjectId": 50112,
+            "startupObjectId": 50103,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,

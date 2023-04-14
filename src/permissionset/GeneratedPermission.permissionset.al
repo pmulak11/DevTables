@@ -1,4 +1,4 @@
-permissionset 50100 "GeneratedPermission"
+permissionset 50100 GeneratedPermission
 {
     Assignable = true;
     Permissions = table "DIN Continent" = X,

@@ -1,4 +1,4 @@
-page 50112 "DIN Plant List"
+page 50100 "DIN Plant List"
 {
     ApplicationArea = All;
     Caption = 'DIN Plant List';

@@ -1,4 +1,4 @@
-page 50114 "DIN Plant Card"
+page 50102 "DIN Plant Card"
 {
     ApplicationArea = All;
     Caption = 'DIN Plant Card';
@@ -33,6 +33,61 @@ page 50114 "DIN Plant Card"
                     Caption = 'Continent';
                     ToolTip = 'Specifies the value of the Continent field.';
                 }
+            }
+        }
+    }
+
+    actions
+    {
+        area(Creation)
+        {
+            action(CreationAction)
+            {
+                Caption = 'CreationAction';
+                Image = Add;
+                trigger OnAction()
+                begin
+                    Message('akcja1');
+                end;
+            }
+        }
+        area(Processing)
+        {
+            action(ProcessingAction)
+            {
+                Caption = 'ProcessingAction';
+                trigger OnAction()
+                begin
+                    Message('akcja2');
+                end;
+            }
+        }
+        area(Navigation)
+        {
+            action(NavAction)
+            {
+                Caption = 'NavAction';
+                trigger OnAction()
+                begin
+                    Message('akcja3');
+                end;
+            }
+        }
+        area(Reporting)
+        {
+            action(ReportingAction)
+            {
+                Caption = 'ReportingAction';
+                trigger OnAction()
+                begin
+                    Message('akcja4');
+                end;
+            }
+        }
+        area(Promoted)
+        {
+            actionref(CreationAction_Promoted; CreationAction)
+            {
             }
         }
     }

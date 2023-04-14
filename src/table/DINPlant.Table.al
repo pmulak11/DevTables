@@ -40,4 +40,10 @@ table 50110 "DIN Plant"
         {
         }
     }
+
+    trigger OnInsert()
+    begin
+        TestField(Spieces);
+        TestField(Quantity);
+    end;
 }
