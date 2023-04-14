@@ -93,6 +93,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control No. of species2 - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2982022723 - Control 1853630488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIN Plant ListPart</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Control Plants - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2982022723 - Action 2985409709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShowHide</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Continent Card - Action ShowHide - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1430990193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>DIN Continent List</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -227,6 +237,36 @@
           <source>Plant name</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant List - Control Spieces - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1860181067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DIN Plant ListPart</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant ListPart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1860181067 - Control 292082969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>rep</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant ListPart - Control rep - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1860181067 - Control 2022406036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plant name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DIN Plant ListPart - Control Plant Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1691199279 - Control 544394039 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Specifies the value of the My Field field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DIN ItemListExt - Control DIN My Field - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1288975817 - Field 544394039 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>My Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DIN ItemExt - Field DIN My Field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1288975817 - Change 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Item Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension DIN ItemExt - Change No. - Property Caption</note>
         </trans-unit>
       </group>
     </body>
